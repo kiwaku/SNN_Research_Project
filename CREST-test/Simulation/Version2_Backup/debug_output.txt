@@ -1,0 +1,1 @@
+[DEBUG] Static Trial: Decay=0.7, Threshold=0.2
